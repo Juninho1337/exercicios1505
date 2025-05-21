@@ -9,7 +9,7 @@
     <form action="dados.php" method="POST">
 
         <label for="senha">Senha:</label> 
-        <input type="text" name="senha" required>
+        <input type="password" name="senha" required>
 
     <br>
     
